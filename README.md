@@ -6,6 +6,6 @@
 
 ## Advent of Code editions
 
-* [**2023**](AoC2023/README.md)
-* [**2024**](AoC2024/README.md)
-* [**2025**](AoC2025/README.md)
+* [**2023**](AoC2023/)
+* [**2024**](AoC2024/)
+* [**2025**](AoC2025/)
